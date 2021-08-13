@@ -1,10 +1,11 @@
-import Counter from "./components/counter";
+
+import CounterContainer from "./containers/counterContainer";
 
 
 function App() {
   return (
     <div className="App">
-      <Counter number={0}/>
+      <CounterContainer/>
     </div>
   );
 }

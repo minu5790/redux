@@ -1,4 +1,3 @@
-import Counter from "../../../test/src/components/counter";
 
 // 액션 타입 설정
 const INCREASE = 'counter/INCREASE';
