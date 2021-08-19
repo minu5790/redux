@@ -5,3 +5,7 @@
 2021-08-17
 redux-actions의 createAction, handleActions 사용 redux-logger로 console 확인  
 redux-saga 공부예정
+
+2021-08-19
+redux-saga
+=> put, delay, takeLatest, takeEvery ( redux-saga/effects )
